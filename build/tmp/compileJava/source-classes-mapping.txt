@@ -1,0 +1,2 @@
+com/geekshirt/zuulservice/ZuulserviceApplication.java
+ com.geekshirt.zuulservice.ZuulserviceApplication
